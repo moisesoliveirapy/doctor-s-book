@@ -1,0 +1,9 @@
+tags no head
+<meta name="google-site-verification" content="i61Pt8c6jfqFb9eUDoI_gXMf0uVQ7eAM5ofmnH7767c" />
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-16981320798');
+</script>
